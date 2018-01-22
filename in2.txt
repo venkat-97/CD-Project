@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main()
+{
+	int a= 56li ;
+int a= @pqr;
+
+	
+
+}
+
+int add(int params){
+
+
+}

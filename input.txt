@@ -1,0 +1,47 @@
+#include<stdio.h>
+struct example
+{
+          int temp;
+          char temp1;
+}
+
+int main(){
+	int  vari1=6,vari2=4;
+	float varf1;
+	char varc;
+	int *p;
+	int a[10];
+	varf=vari1 / vari2;
+	varc=”t”;
+	for(int i=0;i<4;i++)
+	{
+	      if(i==2) continue;
+	      a[i] = 1;
+	}
+	if(vari1 % 2 == 0)
+	return 1;
+	else
+	return 0;
+	int temp=0;
+	while(temp < 3){
+	temp++;
+	}
+	String s="This is a string";
+
+    // This is a valid  comment
+    
+    /*This is a multi line
+        Comment */
+
+    unsigned long int sum=0;  
+    static int s=1;
+    enum week{Mon, Tue, Wed};
+    
+    switch(s){
+        case 0 : sum=1;
+        case 1 : sum=-1;
+        default : sum=0;
+    }
+   
+}
+
